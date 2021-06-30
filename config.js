@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Vì em yêu anh nhiều :33333',
     mess: 'Testing a little bit, pls dont misunderstand',
     messDesc: 'Làm cho vui thôi, Đừng ảo tưởng',
-    btnAccept: 'End',
+    btnAccept: 'Yêu',
     messLink: 'https://www.facebook.com/dangpham.cero/' 
 }
